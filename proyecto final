@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+    <html></html>
+    <head>
+        <title>PAGINA WEB DEL INSTITUTO NACIONAL DE COMERCIO</title>
+    </head>
+    <body>
+            <TABLE ALIGN="center">
+                <TR>
+                    <TD> <img src="" width="150" height="175">
+
+                    </TD> <h1 style="color:green">INSTITUTO</h1><h1 style="color:yellow">NACIONAL DE</h1><h1 style="color:green">COMERCIO</h1>
+                </TR>
+            </TABLE>
+            <TABLE WIDTH="100%" border="1">
+
+                <TD style="background-color: green;" align="center"><a href="index.html">INICIO </a></TD>
+                <TD style="background-color: yellow; "align="center">CARRERAS</TD>
+                <TD style="background-color: green;" align="center">CONTACTANOS</TD>
+                <TD style="background-color: yellow; "align="center">GALERIA</TD>
+                
+                <10><!-- τεχto --></TD>
+                </TR>
+                <TABLE WIDTH="100%" border="1">
+                <TD>INFORMACION DE LA CARRERA</TD>
+                </TR>
+                </TABLE>
+                <ADDRESS>
+                    <SMALL>
+                        Web realizado por: <FONT COLOR="#ED8301">TowerWeb</FONT>
+                        <BR>
+                            Copyright © 1998 Los Alpes Agencia de viajes
+                            <BR> última actualización: 9 de marzo de 1008
+                    </SMALL>
+                </ADDRESS>
+                    
+    </body>
+</HTML>

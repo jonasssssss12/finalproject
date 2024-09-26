@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+
+    <body>
+   <h1>Prospectos que da Subdirección para nuevo y viejo ingreso</h1>
+
+
+    <figure>
+        <img src="Prospecto1.png"
+        width="75%"    alt="Prospecto para la INCO">
+    </figure>
+
+
+    <figure>
+        <img src="Prospect2.png"
+        width="75%"   alt="Prospecto para la INCO">
+    </figure>
+    </body>
+</html>
